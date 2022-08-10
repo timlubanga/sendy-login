@@ -143,12 +143,17 @@ button:hover{
   
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 1000px) {
     img {
     width: 100px;
-    height: 110px;
+    height: 160px;
     margin: 10px;
     border-radius: 5px;
+}
+
+.main{
+    width: 100%;
+
 }
 
 .block-2-img{
@@ -165,8 +170,58 @@ button:hover{
     font-weight: 300;
 }
 
+.sector{
+    width:100%
+}
+
    
 
+}
+
+
+@media screen and (max-width: 521px) {
+
+   img {
+    width: 70px;
+    height: 100px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.image-2{
+    height: 150x;
+    width:150px;
+}
+
+.image-1{
+    height: 150x;
+    width:100px;
+}
+
+ 
+}
+
+
+@media screen and (max-width: 350px) {
+
+   img {
+    width: 40px;
+    height: 50px;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.image-2{
+    height: 150px;
+    width:100px;
+}
+
+.image-1{
+    height: 80px;
+    width:70px;
+}
+
+ 
 }
 
 

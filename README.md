@@ -31,6 +31,7 @@ https://sendy-login.web.app
 username: ```admin```
 password: ```admin```
 
+
 ## Screenshots
 1. home page
 
@@ -48,7 +49,6 @@ password: ```admin```
 
 5. Map view
 ![mapview](https://user-images.githubusercontent.com/40349882/184654869-7b9b1380-7f93-48bc-9d32-482be507a0f0.png)
-
 
 
 ### Customize configuration
